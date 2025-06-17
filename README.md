@@ -21,7 +21,7 @@ Welcome to my cybersecurity portfolio! Here you’ll find a summary of my skills
 
 ## 👤 About Me
 
-_A brief introduction about yourself, your focus in cybersecurity, and your goals._
+_I am a military veteran, having served 6 years in the US Army. I am pursuing a Master of Science in Information Security from the University of South Carolina. I currently work in technology risk management "GRC" for a Large Financial Institution. My goal is to segway into the cybersecurity space once I fully develop my skills, certifications, and education._
 
 ---
 
